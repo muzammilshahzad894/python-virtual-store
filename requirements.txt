@@ -1,5 +1,4 @@
-python3
-pyhton
-django
-pillow
-apache-airflow
+python3==3.11.4
+django==4.2.3
+pillow==10.0.0
+apache-airflow==2.6.2
